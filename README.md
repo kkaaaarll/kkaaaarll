@@ -4,7 +4,7 @@
 
 ### hi, i'm karl
 
-ogfn dev at [shatter](https://github.com/ShatterModdingOrganization)
+ogfn dev at [shatter](https://shatterfn.com/discord)
 
 <img src="https://skillicons.dev/icons?i=cpp,c,rust,ts,nodejs,visualstudio&theme=dark" height="28" />
 
